@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/frcihan/twitter-web/issues"
   },
-  "homepage": "https://github.com/frcihan/twitter-web#readme"
+  "homepage": "https://github.com/frcihan/twitter-web#readme",
+  "dependencies": {
+    "next": "^10.0.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
